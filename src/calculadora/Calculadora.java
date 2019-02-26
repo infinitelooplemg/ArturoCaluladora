@@ -217,6 +217,7 @@ public class Calculadora extends javax.swing.JFrame {
             }
         });
 
+        botonBorrar.setBackground(new java.awt.Color(255, 51, 51));
         botonBorrar.setText("Borrar");
         botonBorrar.setSize(new java.awt.Dimension(60, 60));
         botonBorrar.addActionListener(new java.awt.event.ActionListener() {
